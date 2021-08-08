@@ -20,6 +20,8 @@ Please refer to the table below for information on each competition.
 |10|[태양광 발전량 예측](https://github.com/mysunk/dacon-PV-forecasting)|2020.12 ~ 2021.01|27/461|Top 6 %|
 |11|[시스템 품질 변화로 인한 사용자 불편 예지](https://github.com/mysunk/dacon-lg-user)|2021.01 ~ 2021.02|3/408|Top 1 %|
 |12|[해카톤: 고객 구매 유형 분리추정](https://github.com/mysunk/hyundai-car)|2021.04 ~ 2021.06|-|-|
+|13|[빅데이터 통신 플랫폼 경진대회](https://github.com/mysunk/kt-delivery-viz)|2021.08 ~ NOW|-|-|
+
 > * RANK refers to private score rank for the competitions   
 > * TOP percentage is rounded from the first decimal place
 > * Hacarthon was denied from releasing the code and idea, so left it private repo
